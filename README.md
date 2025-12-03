@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/kanikaimerb.png" alt="Kanika Im-erb" width="150" style="border-radius: 50%;">
   
   # Kanika Im-erb
   
