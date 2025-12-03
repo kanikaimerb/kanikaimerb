@@ -5,7 +5,7 @@
   **Cybersecurity • GRC • Security Monitoring**
 
   [![GitHub](https://img.shields.io/badge/GitHub-Kanikany2003-181717?style=flat&logo=github)](https://github.com/Kanikany2003)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kanika--im--erb-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/kanika-im-erb](https://www.linkedin.com/in/kanika-im-erb-475643267/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kanika--im--erb-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kanika-im-erb-475643267/)
   [![Email](https://img.shields.io/badge/Email-kanikaim2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kanikaim2003@gmail.com)
 </div>
 
