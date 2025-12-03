@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/kanikaimerb.png" alt="Kanika Im-Erb" width="150" style="border-radius: 12px;"><br><br>
 
   # **Kanika Im-Erb**
   **Cybersecurity • GRC • Security Monitoring**
