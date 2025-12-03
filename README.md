@@ -4,9 +4,9 @@
   # **Kanika Im-Erb**
   **Cybersecurity • GRC • Security Monitoring**
 
-  <a href="https://github.com/kanikaimerb">GitHub</a> •
-  <a href="https://linkedin.com/in/kanika-im-erb">LinkedIn</a> •
-  <a href="mailto:kanikaim2003@gmail.com">Email</a>
+  [![GitHub](https://img.shields.io/badge/GitHub-Kanikany2003-181717?style=flat&logo=github)](https://github.com/Kanikany2003)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kanika--im--erb-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/kanika-im-erb)
+  [![Email](https://img.shields.io/badge/Email-kanikaim2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kanikaim2003@gmail.com)
 </div>
 
 ---
@@ -26,11 +26,12 @@ I enjoy building practical tools that protect real people, especially tools that
 ### **Security Tools & Frameworks**
 - **Network Security:** Wireshark, Nmap  
 - **Cloud Security:** AWS IAM, Security Groups, CloudTrail, CloudWatch  
-- **SIEM & Log Analysis:** Graylog, Splunk (Basic), Grafana  
-- **Threat Modeling:** MITRE ATT&CK alignment, event correlation  
+- **SIEM & Log Analysis:** Graylog, Splunk (Basic), Grafana, Datadog, Graylog
+- **Threat Modeling:** MITRE ATT&CK alignment, event correlation
+- **AppSec** OWASP Top 10 understanding, API security basics
 
 ### **Platforms**
-- Linux, Windows, AWS
+- Linux, Windows, MacOS
 
 ### **Soft Skills**
 - Adaptability, Continuous Learning, Problem-solving, Writing Skills, Project Management
@@ -40,36 +41,25 @@ I enjoy building practical tools that protect real people, especially tools that
 ## 🛡️ Cybersecurity Domains
 
 ### **Risk Management & Compliance**
-- Basic risk assessments  
+- Risk assessments  
 - Security auditing  
-- Compliance frameworks (NIST, ISO 27001, CIS)  
-- Creating KRIs and risk documentation  
+- Compliance frameworks (NIST, ISO 27001, CIS, PCI DSS)  
+- Creating KRIs and risk documentation
+- Policy & Procedure writing
+- Incident reporting lifecycle
 
 ### **Security Monitoring & SIEM**
 - Log analysis  
 - Event correlation  
 - Network traffic analysis  
-- Alert creation & tuning  
-
----
-
-## 💼 Experience
-
-### **Internship — Omise, Thailand**  
-**IT & Security Department** *(May 2025 – July 2025)*  
-- Created and optimized Datadog SIEM alerts to enhance monitoring accuracy.  
-- Authored security playbooks aligned with MITRE ATT&CK and NIST.  
-- Conducted risk assessments and developed KRIs for the risk committee.  
-- Delivered incident reports and improved log monitoring workflows.  
-- Worked with Graylog, Datadog, and dashboards for alerting and event visibility.  
-- Assisted in credential and secret verification tooling during internal audits.  
+- Alert creation & tuning
 
 ---
 
 ## 🌐 Featured Projects
 
 ### 🔊 **Vishing Detector (Real-Time Phone Scam Detection)**
-A tool that analyzes real-time phone call audio and identifies potential vishing (voice phishing) risks using heuristic scoring and lightweight AI techniques. Supports English and Thai. Designed to help users recognize scam calls instantly.
+A tool that analyzes real-time phone call audio and identifies potential vishing (voice phishing) risks using AI. Supports English and Thai. Designed to help users recognize scam calls instantly.
 
 <div align="center">
   <a href="https://vishing-detector-kanika-imerb.streamlit.app/">
@@ -84,27 +74,4 @@ A hands-on security monitoring environment using Wazuh, Graylog, Grafana, and op
 **Tech:** Wazuh, Graylog, Grafana, Docker
 
 ---
-
-### 🔍 **GitHub Credential Verifier (Internship Tool)**
-A lightweight internal tool for scanning repositories for leaked credentials, misconfigured secrets, and policy violations.  
-**Tech:** Python, Regex, Automation
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kanikaimerb&show_icons=true&hide_border=true" width="450" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanikaimerb&hide_border=true" width="450" /><br>
-<img src="https://komarev.com/ghpvc/?username=kanikaimerb&color=blue"/>
-
-</div>
-
----
-
-## 🤍 Philosophy
-I believe cybersecurity should be **human-centered and accessible**.  
-People don’t fall for scams because they are careless — they fall for them because threats are evolving faster than protections.  
-So I focus on building tools that empower everyday users and make security clear, simple, and effective.
 
