@@ -1,93 +1,132 @@
-<!--
-  GitHub Profile README (HTML) — paste this into your README.md or into a GitHub Pages index.html.
-  Replace every occurrence of YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, YOUR_EMAIL, and PROJECT_REPO_URL.
-  NOTE: GitHub sanitizes some HTML/CSS in README.md. Full styling works on GitHub Pages (user.github.io).
--->
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanika Im-erb - Cybersecurity Professional</title>
+</head>
+<body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin: 0; padding: 0; background-color: #ffffff; color: #24292e;">
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; max-width:880px; margin: 18px auto; padding:18px; border-radius:14px; box-shadow: 0 6px 18px rgba(2,6,23,0.08); background: linear-gradient(180deg, #ffffff, #fbfdff);" itemscope itemtype="http://schema.org/Person">
-  <!-- Header -->
-  <div style="display:flex; gap:18px; align-items:center;">
-    <img src="https://github.com/YOUR_GITHUB_USERNAME.png?size=200" alt="avatar" style="width:112px; height:112px; border-radius:18px; object-fit:cover; border:3px solid rgba(0,0,0,0.06)">
-    <div style="flex:1">
-      <h1 style="margin:0; font-size:26px; letter-spacing:0.2px;">Kanika Im‑Erb <span style="color:#6b7280; font-weight:600; font-size:14px;">(she/her)</span></h1>
-      <p style="margin:6px 0 12px 0; color:#374151; font-size:14px; line-height:1.45; max-width:720px;">
-        Cybersecurity & GRC enthusiast • B.Tech CSE (Cybersecurity) • ICCR Scholar at National Forensic Science University (India). Building practical security tools — tooling for detection, monitoring, and incident response.
-      </p>
+<div style="max-width: 900px; margin: 0 auto; padding: 40px 20px;">
 
-      <!-- Contact / Links -->
-      <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME" style="text-decoration:none; font-size:13px; padding:6px 10px; border-radius:10px; border:1px solid rgba(15,23,42,0.06); background:#fff; color:#0f172a;">GitHub</a>
-        <a href="YOUR_LINKEDIN_URL" style="text-decoration:none; font-size:13px; padding:6px 10px; border-radius:10px; border:1px solid rgba(15,23,42,0.06); background:#fff; color:#0f172a;">LinkedIn</a>
-        <a href="mailto:YOUR_EMAIL" style="text-decoration:none; font-size:13px; padding:6px 10px; border-radius:10px; border:1px solid rgba(15,23,42,0.06); background:#fff; color:#0f172a;">Email</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Highlights -->
-  <div style="display:flex; gap:12px; margin-top:18px; flex-wrap:wrap;">
-    <div style="flex:1; min-width:220px; padding:12px; border-radius:12px; background: linear-gradient(180deg,#f8fafc, #ffffff); box-shadow: 0 4px 12px rgba(11, 15, 26, 0.03);">
-      <strong style="display:block; font-size:13px; color:#0f172a">Current Focus</strong>
-      <div style="font-size:13px; color:#374151; margin-top:8px;">Threat intel, monitoring & alerting (Graylog / Datadog), Terraform automation, credential safety tooling, and building a vishing detection project.</div>
+    <!-- Header Section -->
+    <div style="text-align: center; padding: 40px 0; border-bottom: 1px solid #e1e4e8;">
+        <img src="https://github.com/Kanikany2003.png" alt="Kanika Im-erb" style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #0366d6; margin-bottom: 20px;">
+        <h1 style="font-size: 36px; font-weight: 600; margin: 10px 0; color: #24292e;">Kanika Im-erb</h1>
+        <p style="font-size: 18px; color: #586069; margin: 10px 0; font-weight: 400;">Cybersecurity | GRC | Security Monitoring</p>
+        <div style="margin-top: 20px;">
+            <a href="https://github.com/Kanikany2003" style="display: inline-block; margin: 0 10px; padding: 8px 16px; background-color: #0366d6; color: #ffffff; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500;">GitHub</a>
+            <a href="https://linkedin.com/in/kanika-im-erb" style="display: inline-block; margin: 0 10px; padding: 8px 16px; background-color: #0077b5; color: #ffffff; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500;">LinkedIn</a>
+            <a href="mailto:kanikaim2003@gmail.com" style="display: inline-block; margin: 0 10px; padding: 8px 16px; background-color: #24292e; color: #ffffff; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500;">Email</a>
+        </div>
     </div>
 
-    <div style="flex:0 0 220px; padding:12px; border-radius:12px; background: linear-gradient(180deg,#fff, #fbfdff); box-shadow: 0 4px 10px rgba(11, 15, 26, 0.02);">
-      <strong style="display:block; font-size:13px; color:#0f172a">Skills & Tools</strong>
-      <div style="margin-top:8px; font-size:13px; color:#374151; line-height:1.6">
-        🔹 Python · Bash · Terraform<br>
-        🔹 AWS (basics) · Linux · Docker<br>
-        🔹 Graylog · Wazuh · TheHive · MISP<br>
-        🔹 Threat Intel · KRI / GRC · IDS
-      </div>
-    </div>
-  </div>
-
-  <!-- Projects -->
-  <h2 style="margin-top:22px; font-size:18px;">Featured Projects</h2>
-  <div style="display:flex; gap:12px; flex-wrap:wrap;">
-    <!-- Project Card -->
-    <a href="PROJECT_REPO_URL" style="text-decoration:none; color:inherit; flex:1; min-width:260px;">
-      <div style="padding:12px; border-radius:12px; background:linear-gradient(180deg,#ffffff,#f8fbff); box-shadow: 0 6px 18px rgba(2,6,23,0.04); border:1px solid rgba(15,23,42,0.03);">
-        <strong style="display:block; font-size:15px;">Vishing Detector (Real‑time)</strong>
-        <div style="font-size:13px; color:#475569; margin-top:8px; line-height:1.5">AI-powered system that listens to phone calls and flags likely voice-phishing attempts. Built with speech analysis + heuristic scoring.</div>
-        <div style="margin-top:10px; font-size:12px; color:#64748b">Languages: English, Thai · Tech: Python, ML, streaming audio</div>
-      </div>
-    </a>
-
-    <a href="#" style="text-decoration:none; color:inherit; flex:1; min-width:260px;">
-      <div style="padding:12px; border-radius:12px; background:linear-gradient(180deg,#ffffff,#fffaf8); box-shadow: 0 6px 18px rgba(2,6,23,0.04); border:1px solid rgba(15,23,42,0.03);">
-        <strong style="display:block; font-size:15px;">DIY SIEM & Detection Playbook</strong>
-        <div style="font-size:13px; color:#475569; margin-top:8px; line-height:1.5">A mini SIEM stack using Wazuh, Graylog, and Grafana for hands-on detection labs and dashboards.</div>
-        <div style="margin-top:10px; font-size:12px; color:#64748b">Infra: Docker · Integrations: TheHive · Velociraptor</div>
-      </div>
-    </a>
-  </div>
-
-  <!-- Stats and badges -->
-  <div style="display:flex; gap:12px; margin-top:18px; flex-wrap:wrap; align-items:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="github stats" style="border-radius:12px; max-width:420px; width:100%;">
-    <div style="display:flex; flex-direction:column; gap:8px;">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="profile views" style="border-radius:10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&date_format=%5By.%5D%20j.%20M.%20Y" alt="streak" style="border-radius:10px;">
-    </div>
-  </div>
-
-  <!-- About / Closing -->
-  <hr style="margin:18px 0; border:none; border-top:1px solid rgba(15,23,42,0.06)">
-  <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
-    <div style="flex:1; min-width:260px;">
-      <h3 style="margin:0 0 8px 0; font-size:15px">What I care about</h3>
-      <p style="margin:0; color:#374151; font-size:13px; line-height:1.6">Building practical tools that protect people — not just tech for the sake of tech. I focus on lowering the barrier for everyday users to stay safe from scams and misuse. I also love teaching others what I learn.</p>
+    <!-- About Me Section -->
+    <div style="padding: 40px 0; border-bottom: 1px solid #e1e4e8;">
+        <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 20px; color: #24292e;">About Me</h2>
+        <p style="font-size: 16px; line-height: 1.6; color: #586069; margin: 0;">
+            I'm a B.Tech Computer Science & Engineering student specializing in Cyber Security at National Forensic Science University in Gujarat, India, studying as an ICCR Scholar. I bring enterprise-level security operations experience from my internship at Omise, Thailand's leading fintech company, where I engineered custom security detection rules and implemented real-time monitoring solutions. Passionate about GRC, security monitoring, and building AI-powered security solutions, I'm committed to protecting digital infrastructure through practical implementation and continuous learning.
+        </p>
     </div>
 
-    <div style="min-width:240px;">
-      <h3 style="margin:0 0 8px 0; font-size:15px">How to support / work with me</h3>
-      <ul style="margin:0; padding-left:18px; color:#374151; font-size:13px; line-height:1.6">
-        <li>⭐ Star or fork any repo you find useful</li>
-        <li>💬 Open issues or PRs — collaboration is how we grow</li>
-        <li>📫 Email me or connect on LinkedIn to chat about internships or projects</li>
-      </ul>
-    </div>
-  </div>
+    <!-- Skills Section -->
+    <div style="padding: 40px 0; border-bottom: 1px solid #e1e4e8;">
+        <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 20px; color: #24292e;">Skills</h2>
+        
+        <div style="margin-bottom: 25px;">
+            <h3 style="font-size: 16px; font-weight: 600; color: #0366d6; margin-bottom: 10px;">Languages & Scripting</h3>
+            <p style="font-size: 15px; color: #586069; margin: 0; line-height: 1.6;">Python, C, SQL, JAVA, Bash</p>
+        </div>
 
-  <p style="margin-top:18px; color:#6b7280; font-size:12px;">Last updated: December 2025 • Built with ❤️ for practical security.</p>
+        <div style="margin-bottom: 25px;">
+            <h3 style="font-size: 16px; font-weight: 600; color: #0366d6; margin-bottom: 10px;">Security Tools & Frameworks</h3>
+            <p style="font-size: 15px; color: #586069; margin: 0; line-height: 1.6;"><strong>Network Security:</strong> Wireshark, Nmap</p>
+            <p style="font-size: 15px; color: #586069; margin: 0; line-height: 1.6;"><strong>Cloud Security:</strong> AWS IAM, Security Groups, CloudTrail, CloudWatch</p>
+            <p style="font-size: 15px; color: #586069; margin: 0; line-height: 1.6;"><strong>SIEM & Log Analysis:</strong> Graylog, Splunk (Basic), Grafana</p>
+        </div>
+
+        <div style="margin-bottom: 25px;">
+            <h3 style="font-size: 16px; font-weight: 600; color: #0366d6; margin-bottom: 10px;">Platforms</h3>
+            <p style="font-size: 15px; color: #586069; margin: 0; line-height: 1.6;">Linux, Windows, AWS</p>
+        </div>
+
+        <div style="margin-bottom: 25px;">
+            <h3 style="font-size: 16px; font-weight: 600; color: #0366d6; margin-bottom: 10px;">Soft Skills</h3>
+            <p style="font-size: 15px; color: #586069; margin: 0; line-height: 1.6;">Writing skills, Adaptability, Flexibility, Continuous Learning, Problem-solving, Project Management</p>
+        </div>
+    </div>
+
+    <!-- Cybersecurity Domains Section -->
+    <div style="padding: 40px 0; border-bottom: 1px solid #e1e4e8;">
+        <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 20px; color: #24292e;">Cybersecurity Domains & Practices</h2>
+        <p style="font-size: 15px; color: #586069; margin: 0 0 10px 0; line-height: 1.6;"><strong>Risk Management & Compliance:</strong> Basic Risk Assessment & Security Auditing, Compliance Frameworks (NIST, ISO 27001, CIS)</p>
+        <p style="font-size: 15px; color: #586069; margin: 0; line-height: 1.6;"><strong>Security Monitoring & SIEM:</strong> Basic Log Analysis & Event Correlation, Network Traffic Analysis, Security Alerting</p>
+    </div>
+
+    <!-- Experience Section -->
+    <div style="padding: 40px 0; border-bottom: 1px solid #e1e4e8;">
+        <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 20px; color: #24292e;">Experience</h2>
+        
+        <div style="margin-bottom: 20px;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 10px;">
+                <h3 style="font-size: 18px; font-weight: 600; color: #24292e; margin: 0;">Internship - Omise, Thailand</h3>
+                <span style="font-size: 14px; color: #586069; font-weight: 500;">May 2025 - July 2025</span>
+            </div>
+            <p style="font-size: 15px; color: #0366d6; margin: 5px 0; font-style: italic;">IT & Security Department</p>
+            
+            <ul style="font-size: 15px; color: #586069; line-height: 1.8; margin: 15px 0; padding-left: 20px;">
+                <li><strong>Security Monitoring & Incident Response:</strong> Built and optimized security alerts in Datadog, authored security playbooks with MITRE ATT&CK and NIST alignment, and implemented log monitoring with incident reporting.</li>
+                <li><strong>Risk Management & Compliance:</strong> Performed risk assessments, developed KRIs, authored risk descriptions with action plans, and delivered documentation for the Risk Committee.</li>
+                <li><strong>Security Tools & Automation:</strong> Worked with Graylog, Datadog, and dashboard logging to enhance alerting, monitoring, and security event analysis.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Featured Projects Section -->
+    <div style="padding: 40px 0; border-bottom: 1px solid #e1e4e8;">
+        <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 20px; color: #24292e;">Featured Projects</h2>
+        
+        <div style="margin-bottom: 30px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
+            <h3 style="font-size: 18px; font-weight: 600; color: #24292e; margin: 0 0 10px 0;">
+                <a href="https://github.com/Kanikany2003" style="color: #0366d6; text-decoration: none;">AI-Powered Intrusion Detection System (IDS)</a>
+            </h3>
+            <p style="font-size: 15px; color: #586069; line-height: 1.6; margin: 10px 0;">
+                Real-time AI Intrusion Detection System to monitor and classify network traffic, detect cyber threats and perform log analysis. Trained a Random Forest model on the NSL-KDD dataset achieving an accuracy of 99.79% for intrusion detection. Integrated machine learning for intelligent attack classification and real-time visualization using Grafana.
+            </p>
+            <p style="font-size: 14px; color: #586069; margin: 10px 0 0 0;"><strong>Tools:</strong> Python (Scapy, Pandas), InfluxDB, Grafana, Machine Learning (Random Forest Classifier)</p>
+        </div>
+
+        <div style="margin-bottom: 30px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
+            <h3 style="font-size: 18px; font-weight: 600; color: #24292e; margin: 0 0 10px 0;">
+                <a href="https://github.com/Kanikany2003" style="color: #0366d6; text-decoration: none;">T-Mobile Cybersecurity Risk Assessment</a>
+            </h3>
+            <p style="font-size: 15px; color: #586069; line-height: 1.6; margin: 10px 0;">
+                Conducted a comprehensive cybersecurity risk assessment to identify vulnerabilities, assess threats, and ensure compliance with GDPR, PCI DSS, SOC, ISO 27001, NIST and FCC. Developed a risk register and compliance checklist to evaluate T-Mobile's security posture. Provided risk mitigation strategies to enhance T-Mobile's cybersecurity resilience.
+            </p>
+            <p style="font-size: 14px; color: #586069; margin: 10px 0 0 0;"><strong>Tools:</strong> Risk Assessment Frameworks, Compliance Standards</p>
+        </div>
+    </div>
+
+    <!-- GitHub Stats Section -->
+    <div style="padding: 40px 0;">
+        <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 20px; color: #24292e;">GitHub Stats</h2>
+        <div style="text-align: center;">
+            <img src="https://github-readme-stats.vercel.app/api?username=Kanikany2003&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" style="max-width: 100%; margin: 10px;">
+            <br>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanikany2003&theme=default&hide_border=true" alt="GitHub Streak" style="max-width: 100%; margin: 10px;">
+            <br>
+            <img src="https://komarev.com/ghpvc/?username=Kanikany2003&color=blue&style=flat" alt="Profile Views" style="margin: 10px;">
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div style="text-align: center; padding: 20px 0; border-top: 1px solid #e1e4e8; color: #586069; font-size: 14px;">
+        <p style="margin: 0;">© 2025 Kanika Im-erb. Building secure digital infrastructure, one project at a time.</p>
+    </div>
+
 </div>
+
+</body>
+</html>
+```
