@@ -6,17 +6,16 @@
   **Cybersecurity | GRC | Security Monitoring**
   
   [![GitHub](https://img.shields.io/badge/GitHub-Kanikany2003-181717?style=flat&logo=github)](https://github.com/Kanikany2003)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kanika--im--erb-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/kanika-im-erb)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kanika--im--erb-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/kanika-im-erb](https://www.linkedin.com/in/kanika-im-erb-475643267/))
   [![Email](https://img.shields.io/badge/Email-kanikaim2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kanikaim2003@gmail.com)
   
-  <img src="https://komarev.com/ghpvc/?username=Kanikany2003&color=blue&style=flat" alt="Profile Views">
 </div>
 
 <br>
 
 ## 👋 About Me
 
-I'm a B.Tech Computer Science & Engineering student specializing in Cyber Security at National Forensic Science University in Gujarat, India, studying as an ICCR Scholar from Thailand. With enterprise-level experience from my internship at Omise, Thailand's leading fintech company, I've engineered 50+ custom security detection rules and implemented real-time monitoring solutions. I'm passionate about GRC, security monitoring, SIEM, and building AI-powered security solutions to protect digital infrastructure through practical implementation and continuous learning.
+I'm a B.Tech Computer Science & Engineering student specializing in Cyber Security at National Forensic Science University in Gujarat, India, studying as an ICCR Scholar from Thailand. I'm passionate about GRC, security monitoring, SIEM, and building AI-powered security solutions to protect digital infrastructure through practical implementation and continuous learning.
 
 <br>
 
@@ -41,24 +40,13 @@ Writing Skills • Adaptability • Flexibility • Continuous Learning • Prob
 ## 🔐 Cybersecurity Domains & Practices
 
 **Risk Management & Compliance**
-- Basic Risk Assessment & Security Auditing
+- Risk Assessment & Security Auditing
 - Compliance Frameworks (NIST, ISO 27001, CIS)
 
 **Security Monitoring & SIEM**
 - Basic Log Analysis & Event Correlation
 - Network Traffic Analysis
 - Security Alerting
-
-<br>
-
-## 💼 Experience
-
-### Internship – Omise, Thailand
-**IT & Security Department** | *May 2025 - July 2025*
-
-- **Security Monitoring & Incident Response:** Built and optimized security alerts in Datadog, authored security playbooks with MITRE ATT&CK and NIST alignment, and implemented log monitoring with incident reporting
-- **Risk Management & Compliance:** Performed risk assessments, developed KRIs, authored risk descriptions with action plans, and delivered documentation for the Risk Committee
-- **Security Tools & Automation:** Worked with Graylog, Datadog, and dashboard logging to enhance alerting, monitoring, and security event analysis
 
 <br>
 
