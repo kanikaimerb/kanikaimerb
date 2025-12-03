@@ -47,21 +47,5 @@ Writing Skills • Adaptability • Flexibility • Continuous Learning • Prob
 - Network Traffic Analysis
 - Security Alerting
 
-<br>
-
-## 🚀 Featured Projects
-
-### 🔍 AI-Powered Intrusion Detection System (IDS)
-Real-time AI Intrusion Detection System to monitor and classify network traffic, detect cyber threats, and perform log analysis. Trained a Random Forest model on the NSL-KDD dataset IDS, achieving an accuracy of 99.79% for intrusion detection. Integrated machine learning for intelligent attack classification and real-time visualization using Grafana.
-
-**Tools:** Python (Scapy, Pandas), InfluxDB, Grafana, Machine Learning (Random Forest Classifier)
-
-### 📊 T-Mobile Cybersecurity Risk Assessment
-Conducted a cybersecurity risk assessment to identify vulnerabilities, assess threats, and ensure compliance with GDPR, PCI DSS, SOC, ISO 27001, NIST and FCC. Developed a risk register and compliance checklist to evaluate T-Mobile's security posture. Provided risk mitigation strategies to enhance T-Mobile's cybersecurity resilience.
-
-**Tools:** Risk Assessment Frameworks, Compliance Standards (GDPR, PCI DSS, SOC, ISO 27001, NIST, FCC)
-
-<br>
-
 <div align="center">
 </div>
