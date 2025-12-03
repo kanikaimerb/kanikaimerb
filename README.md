@@ -63,15 +63,5 @@ Conducted a cybersecurity risk assessment to identify vulnerabilities, assess th
 
 <br>
 
-## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanikany2003&show_icons=true&theme=default&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=586069&bg_color=ffffff" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanikany2003&theme=default&hide_border=true&ring=0366d6&fire=0366d6&currStreakLabel=586069" alt="GitHub Streak" width="48%">
-</div>
-
-<br>
-
-<div align="center">
-  <i>Building secure digital infrastructure, one project at a time.</i>
 </div>
